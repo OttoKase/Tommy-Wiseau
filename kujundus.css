@@ -1,3 +1,54 @@
 body{
-	
+	background-image: url("https://www.indiewire.com/wp-content/uploads/2017/09/the-room-tommy-wiseau-james-franco-01.jpg?resize=800,533");
+	background-size: cover;
 }
+
+h1{
+	background-color: lightblue;
+	margin: 20px;
+	text-align: center;
+	padding: 5px;
+	border: 5px dotted black;
+
+}
+
+#content
+{	margin-left: 200px;
+	padding: 1em;
+	max-width: 70em;
+	background-color: white;
+	border: 2px dotted black;
+	opacity: 0.6;
+}
+
+#content div, p{
+	font-weight: bold;
+	color: #000000;
+}
+
+#content:hover{
+	opacity: 1;
+}
+
+#leftnav{
+	float: left;
+	width: 148px;
+	position: relative;
+	margin: 1;
+	clear: both;
+	padding: 1em;
+	background-color: steelblue;
+border: 2px solid #191970;
+  border-radius: 10px;
+	display: inline;
+	color:white
+}
+
+#leftnav li{
+	margin-left: -40px; 
+	line-height: 200%; 
+	list-style-type: none; 
+}
+
+#leftnav p{
+ 	margin: 0 0 1em 0; }
