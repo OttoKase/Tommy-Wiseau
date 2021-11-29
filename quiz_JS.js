@@ -195,11 +195,11 @@ $('#submit-btn').click(function () {
 		// console.log(document.getElementById('intro-bar').style.width);
 		// document.getElementById('intro-bar').innerHTML= ((total / 60) * 100) + '%';
 		document.getElementById('results').innerHTML = '<b>Sa oled Johnny!</b><br><br>\
-		Oled tavaline, armastav tõeline ameeriklane, keda ristavad ebaõiglaselt su hull manipuleeriv emane kihlatu Lisa ja parim sõber Mark.\
+		Oled tavaline, vahva ameeriklane, kelle elu teevad põrguks manipuleeriv kihlatu ja parim sõber, kes salamisi voodit jagavad.\
 		<br><br>\
-		Sul on kindlasti õigus ja hea. See rämps ei vääri sind. Ta pole isegi nii ilus.\
+		Sul on kindlasti õigus ja hea. See naine ei vääri sind. Ta pole isegi nii ilus.\
 		<br><br>\
-		Vean kihla, et ta pole ka atraktiivne. Lollpea. Las ta teeb, mida hing ihkab.';
+		Oled liiga siiras selle maailma jaoks ning su elu võib lõppeda enneaegselt.';
 	} else if(total > 0) {
 		document.getElementById('results').innerHTML = '<b>Sa oled Mark!</b><br><br>\
 		Johnny parim sõber. Sa oled tema parim sõber. Kas ma pean sulle meelde tuletama, et sa oled Johnny parim sõber?\
