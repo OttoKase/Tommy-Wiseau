@@ -1,3 +1,6 @@
+/* Kasutasin teise inimese loomingut nii-öelda mallina. Originaali autor Danube Phan. Töö
+leitav leheküljel https://codepen.io/danubevictoria/pen/WObGGQ */
+
 .prompt {
 	display: block;
 	font-size: 20px;
@@ -82,5 +85,3 @@
 .show {
 	display: block;
 }
-
-/* RESULTS */
